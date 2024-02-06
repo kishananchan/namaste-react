@@ -51,3 +51,29 @@
 .filterBtn{
     padding: 10px;
 }
+
+.shimmer-container{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-card{
+    margin: 20px;
+    width: 300px;   
+    height: 450px;    
+    background:rgb(240, 240, 240);
+}
+
+.login{
+    padding:0 20px;
+    width:80px;
+}
+
+.filterBtn{
+    display: flex;
+    cursor: pointer;
+}
+
+.search-btn{
+   margin:0 5px 0 0;
+}
