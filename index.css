@@ -77,3 +77,17 @@
 .search-btn{
    margin:0 5px 0 0;
 }
+
+.menu-container{
+    border: 1px solid black;
+    width: 350px;
+}
+
+.submenu-container{
+    border: 1px solid black;
+}
+
+.user-card{
+    padding: 10px;
+    border: 1px solid black;
+}
